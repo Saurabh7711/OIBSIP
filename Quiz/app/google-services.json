@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60172425563",
+    "project_id": "quiz-fdbaf",
+    "storage_bucket": "quiz-fdbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60172425563:android:2e6fd9ef8306dad825227e",
+        "android_client_info": {
+          "package_name": "com.example.simplequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60172425563-j847isdpnjv3gfton3h83jl1lmasdbup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoji3B_aWOxFnGnmH01NGoY5L_XNUJDBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60172425563-j847isdpnjv3gfton3h83jl1lmasdbup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
